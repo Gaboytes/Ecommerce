@@ -17,4 +17,4 @@ Por tanto, mucho de lo que aprendamos aquí es de aplicación general en prácti
 
 ### Exploratory Data Analysis 
 
-Check the Jupyter Notebook --->  [Analysis](https://github.com/Gaboytes/Ecommerce/blob/main/Notebooks/01_Dise%C3%B1o%20del%20proyecto.ipynb)
+Jupyter Notebook --->  [Analysis](https://github.com/Gaboytes/Ecommerce/blob/main/Notebooks/01_Dise%C3%B1o%20del%20proyecto.ipynb)
