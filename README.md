@@ -5,10 +5,10 @@ Esta empresa ha teniendo una evolución plana durante los últimos meses y nos h
 
 En este caso entre otras cosas vamos a ver:
 
-- cómo son los datos de un ecommerce
-técnicas de análisis orientadas a incrementar facturación y margen en un ecommerce, tanto básicas o genéricas como algunas técnicas avanzadas específicas de este sector
-las principales métricas sobre las que tenemos que trabajar y algunas acciones CRO que podemos poner en práctica para mejorarlas
-a construir dos recursos analíticos muy potentes para este sector: una segmentación RFM y un sistema de recomendación.
+- cómo son los datos de un ecommerce y su proceso de funcionamiento.
+- técnicas de análisis orientadas a incrementar facturación y margen en un ecommerce, tanto básicas o genéricas como algunas técnicas avanzadas específicas de este sector.
+- las principales métricas sobre las que tenemos que trabajar y algunas acciones CRO que podemos poner en práctica para mejorarlas.
+- construir dos recursos analíticos muy potentes para este sector: una segmentación RFM y un sistema de recomendación.
 Por tanto, mucho de lo que aprendamos aquí es de aplicación general en prácticamente cualquier ecommerce.
 
 OBJETIVO
