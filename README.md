@@ -14,3 +14,7 @@ Por tanto, mucho de lo que aprendamos aquí es de aplicación general en prácti
 ### OBJETIVO
 - Analizar los datos transaccionales para intentar potenciales acciones CRO que incrementen visitas, conversiones y ticket medio, y por tanto incrementar la facturación global del ecommerce.
 - Crear activos analíticos avanzados como una segmentación RFM y un sistema de recomendación que impulsen la consecución del objetivo.
+
+### Exploratory Data Analysis 
+
+Check the Jupyter Notebook --->  [Analysis](https://github.com/Gaboytes/Ecommerce/blob/main/Notebooks/01_Dise%C3%B1o%20del%20proyecto.ipynb)
