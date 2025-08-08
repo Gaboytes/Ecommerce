@@ -11,6 +11,6 @@ En este caso entre otras cosas vamos a ver:
 - construir dos recursos analíticos muy potentes para este sector: una segmentación RFM y un sistema de recomendación.
 Por tanto, mucho de lo que aprendamos aquí es de aplicación general en prácticamente cualquier ecommerce.
 
-OBJETIVO
+### OBJETIVO
 - Analizar los datos transaccionales para intentar potenciales acciones CRO que incrementen visitas, conversiones y ticket medio, y por tanto incrementar la facturación global del ecommerce.
 - Crear activos analíticos avanzados como una segmentación RFM y un sistema de recomendación que impulsen la consecución del objetivo.
