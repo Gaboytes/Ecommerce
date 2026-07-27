@@ -1,5 +1,5 @@
 # DISEÑO DEL PROYECTO
-En este caso trabajaremos como consultores para un ecommerce del sector cosméticos.
+Ecommerce del sector cosméticos.
 
 Esta empresa ha teniendo una evolución plana durante los últimos meses y nos ha contratado para analizar sus datos transaccionales e implementar acciones CRO personalizadas a su situación en base a dicho análisis.
 
